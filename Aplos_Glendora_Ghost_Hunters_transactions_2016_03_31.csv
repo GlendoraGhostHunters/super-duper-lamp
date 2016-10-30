@@ -1,2 +1,2 @@
-"Transaction ID",Date,From/To,Email,Address,City,State,Zip,Phone,Type,Status,Amount,Fee,Net,Purpose,Memo,"Reference ID"
-C61724076,03/31/2016,"Larry Cisneros",scarylarry69@gmail.com,,,,,,"application checkout",completed,?3/?31/?2016,"1,030.50",30.50,"1,000.00","Donation to Glendora Ghost Hunters",,
+"Transaction ID",Date,From/To,Email,Type,Status,Amount,Fee,Net,Purpose,Memo,"Reference ID"
+C61724076,03/31/2016,"Larry Cisneros",scarylarry69@gmail.com,"application checkout","completed,"1,030.50","30.50","1,000.00","achievments","Donation to Glendora Ghost Hunters","refidAplos"
